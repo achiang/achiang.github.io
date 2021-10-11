@@ -1,3 +1,3 @@
 Hello world.
 
-[HOWO Buy America](./buy_america.md)
+[HOWTO Buy America](./buy_america.md)
