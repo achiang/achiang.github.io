@@ -12,7 +12,9 @@ It lives entirely in the cloud, not even on my local ChromeOS device. Here are t
 * You can now clone the repo in your Cloud Shell instance: `git clone git@github.com:USERNAME/USERNAME.github.io.git`
 * You can now create new files in the Cloud Shell Editor and use git in the Cloud Shell terminal to commit and push to upstream.
 
-The VM instance goes away if it's not used in 20m, but your home directory will persist (as long as you login every 120 days). Again, this is part of the free tier, so you won't get charged.
+The VM instance goes away if it's not used in 20m, but your home directory will persist (as long as you login every 120 days). If don't login and your home directory gets recycled, just generate a new ssh keypair and clone your blog repo again.
+
+Finally (again), this is part of the free tier, so you won't get charged.
 
 ## Yeah, but why?
 
